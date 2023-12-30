@@ -1,8 +1,8 @@
 # Cloud Resume Project Overview
 
-Hi, everyone! Here's my attempt at cloud resume challenge in AWS. The Cloud Resume project is a hands-on, real-world assignment designed to showcase cloud skills and understanding by building and deploying a personal resume as a static website on AWS.
+Hi, everyone! Here's my attempt at cloud resume challenge in AWS. The Cloud Resume project is a hands-on, real-world assignment designed to showcase cloud skills and understanding by building and deploying a personal resume as a static website on AWS. Thee project was introduced by Forrest Brazeal. Checkout the webbsite: [Cloud Resume Challange](https://cloudresumechallenge.dev/)
 
-![Alt text](cloud-resume-challenge/website/cloud_resume.png)
+![Alt text](website/cloud_resume.png)
 
 <p align="center">
  <a href="https://www.meetrajput.com">https://www.meetrajput.com</a>
